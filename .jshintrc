@@ -4,6 +4,7 @@
     "window",
     "-Promise"
   ],
+  "node": true,
   "browser": true,
   "boss": true,
   "curly": true,
